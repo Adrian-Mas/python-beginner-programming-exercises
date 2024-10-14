@@ -26,4 +26,4 @@ def get_allStudentColors():
     return students_array
 
 
-print(get_allStudentColors())
+print(get_allStudentColors)
