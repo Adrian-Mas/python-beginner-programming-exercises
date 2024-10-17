@@ -10,3 +10,4 @@ def number_of_bottles():
             print("No more bottles of milk on the wall, no more bottles of milk. Go to the store and buy some more, 99 bottles of milk on the wall.")
 
 number_of_bottles()
+number = []
